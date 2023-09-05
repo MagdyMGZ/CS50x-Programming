@@ -1,0 +1,5 @@
+The THIEF is: Bruce
+The city the thief ESCAPED TO: New York City
+The ACCOMPLICE is: Robin
+
+phpLiteAdmin running on: https://magdymgz-code50-91482114-g4rgrqp5vcw5w5-8082.githubpreview.dev/ 
